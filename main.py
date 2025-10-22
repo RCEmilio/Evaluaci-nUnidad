@@ -15,3 +15,5 @@ while adivinado != numero_secreto:
         print("LENTEJAS, demasiados intentos amigo")
         print ("A perdido")
         break
+     
+   print("Lo he logrado")
